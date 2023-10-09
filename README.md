@@ -5,3 +5,8 @@ To attain accurate predictions, three distinct models, named ARIMA, SARIMA, and 
 
 Access the data at:
 https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset
+
+Please find attached: 
+- Python wookbook for the project
+- PDF report
+- Dataset used for the project
